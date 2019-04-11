@@ -44,6 +44,32 @@ This repo includes two sets of icons. One utilizes the version of the Live Natio
 <link rel="shortcut icon" href="favicon.ico" />	
 ```
 
+### Optional Meta Tags
+```
+<meta property="fb:app_id" content="120727820568" />
+<meta name="apple-itunes-app" content="id404040847" />
+<meta name="apple-itunes-app" content="app-id=404040847" />
+
+<meta property="al:ios:app_store_id" content="" />
+<meta property="al:ios:app_name" content="" />
+<meta property="al:web:url" content="https://www.livenation.com" />
+<meta property="al:android:url" content="" />
+<meta property="al:android:app_name" content="" />
+<meta property="al:android:package" content="" />
+
+<meta name="twitter:app:country" content="US" />
+<meta name="twitter:app:name:iphone" content="" />
+<meta name="twitter:app:id:iphone" content="" />
+<meta name="twitter:app:url:iphone" content="" />
+<meta name="twitter:app:name:ipad" content="" />
+<meta name="twitter:app:id:ipad" content="" />
+<meta name="twitter:app:url:ipad" content="" />
+<meta name="twitter:app:name:googleplay" content="" />
+<meta name="twitter:app:id:googleplay" content="" />
+<meta name="twitter:app:url:googleplay" content="" />
+
+```
+
 ## Icon Exporter
 These icons are produced using a modified version of this [Sketch Favicon Exporter](https://github.com/frederik-jacques/sketch-favicon-exporter-template).
 
