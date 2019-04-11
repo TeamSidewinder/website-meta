@@ -1,7 +1,10 @@
 # Website Meta
 Collection of meta tags and image assets to ease implementation of meta data on Live Nation websites. 
 
-This repo includes two sets of icons. One utilizes the version of the Live Nation logo that has [no Fanman](/no-fanman/), the other does have the [Fanman](/fanman/).
+This repo includes two sets of icons. One utilizes the version of the Live Nation logo that has [no Fanman](/no-fanman/), the other does have the [Fanman](/fanman/). If you need to create other icons, the provided Sketch will expedite that.
+
+### [Download the Sketch Favicon Exporter](https://github.com/TeamSidewinder/website-meta/raw/master/favicon-exporter.sketch)
+
 
 ## Meta Tags
 ```
@@ -70,11 +73,16 @@ This repo includes two sets of icons. One utilizes the version of the Live Natio
 
 ```
 
-## Icon Exporter
-These icons are produced using a modified version of this [Sketch Favicon Exporter](https://github.com/frederik-jacques/sketch-favicon-exporter-template).
-
 ## File Size Optimization
 If you need to generate new icons, make sure to run the `PNG`s through [ImageOptim](https://imageoptim.com) to reduce their file size, and minimize the `SVG` file with [SVGOMG](https://jakearchibald.github.io/svgomg/).
 
 ## ICO Generation
-The one file that Sketch is not able to export is the `favicon.ico`. To create that, upload the `32x32` `PNG` to [Favicon.cc](https://www.favicon.cc).
+The one icon that Sketch is not able to export is the `favicon.ico`. To create that, upload the `favicon-32x32.png` to [Favicon.cc](https://www.favicon.cc).
+
+## Credits
+The original [Sketch Favicon Exporter](https://github.com/frederik-jacques/sketch-favicon-exporter-template) was created by [Frederik Jacques](https://twitter.com/thenerd_be/).
+
+## License
+The Sketch Favicon Exporter and the sample HTML snippets are licensed under [MIT](https://github.com/TeamSidewinder/licenses/blob/master/LICENSE-icons-images.txt). Live Nation, the Live Nation logo, and the Fanman graphic are all trademarks of Live Nation Worldwide, Inc.
+
+![Live Nation banner](https://user-images.githubusercontent.com/882331/53369931-38ab1f00-3901-11e9-95f7-3ba05a225edd.png)
