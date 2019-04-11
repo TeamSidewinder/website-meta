@@ -1,29 +1,30 @@
 # Website Meta
-Collection of meta tags and image assets to ease implementation of meta data on Live Nation websites. 
+This is a collection of meta tags and image assets to simplify adding meta data to Websites. 
 
-This repo includes two sets of icons. One utilizes the version of the Live Nation logo that has [no Fanman](/no-fanman/), the other does have the [Fanman](/fanman/). If you need to create other icons, the provided Sketch will expedite that.
+This repo includes two sets of icons. One utilizes the version of the Live Nation logo that has [no Fanman](/no-fanman/), the other does have the [Fanman](/fanman/). If you need to create alternate icons, the provided Sketch file will expedite that.
 
-### [Download the Sketch Favicon Exporter](https://github.com/TeamSidewinder/website-meta/raw/master/favicon-exporter.sketch)
+### [Download the Sketch Favicon Exporter »](https://github.com/TeamSidewinder/website-meta/raw/master/favicon-exporter.sketch)
 
+----
 
 ## Meta Tags
 ```
-<title>Live Nation website title</title>
-<meta name="description" content="Live Nation web page description." />
+<title>Website title</title>
+<meta name="description" content="Web page description." />
 
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
-<meta property="og:site_name" content="Live Nation Website" />
-<meta property="og:title" content="Live Nation web page title" />
-<meta property="og:description" content="Live Nation web page description." />
-<meta property="og:url" content="https://www.livenation.com" />
+<meta property="og:site_name" content="Website" />
+<meta property="og:title" content="Web page title" />
+<meta property="og:description" content="Web page description." />
+<meta property="og:url" content="https://www.example.com" />
 <meta property="og:image" content="open-graph-logo-1200x1200.png" />
 <meta property="og:image:alt" content="Image description" />
 
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@livenation" />
-<meta name="twitter:title" content="Live Nation web page title" />
-<meta name="twitter:description" content="Live Nation web page description." />
+<meta name="twitter:site" content="@example" />
+<meta name="twitter:title" content="Web page title" />
+<meta name="twitter:description" content="Web page description." />
 <meta name="twitter:image" content="twitter-card-logo-1024x512.png" />
 <meta name="twitter:image:alt" content="Image description" />
 
@@ -49,13 +50,13 @@ This repo includes two sets of icons. One utilizes the version of the Live Natio
 
 ### Optional Meta Tags
 ```
-<meta property="fb:app_id" content="120727820568" />
-<meta name="apple-itunes-app" content="id404040847" />
-<meta name="apple-itunes-app" content="app-id=404040847" />
+<meta property="fb:app_id" content="" />
+<meta name="apple-itunes-app" content="" />
+<meta name="apple-itunes-app" content="" />
 
 <meta property="al:ios:app_store_id" content="" />
 <meta property="al:ios:app_name" content="" />
-<meta property="al:web:url" content="https://www.livenation.com" />
+<meta property="al:web:url" content="https://www.example.com" />
 <meta property="al:android:url" content="" />
 <meta property="al:android:app_name" content="" />
 <meta property="al:android:package" content="" />
