@@ -52,7 +52,6 @@ This repo includes two sets of icons. One utilizes the version of the Live Natio
 ```
 <meta property="fb:app_id" content="" />
 <meta name="apple-itunes-app" content="" />
-<meta name="apple-itunes-app" content="" />
 
 <meta property="al:ios:app_store_id" content="" />
 <meta property="al:ios:app_name" content="" />
